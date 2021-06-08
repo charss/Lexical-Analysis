@@ -1,0 +1,9 @@
+int main() {
+    int a, b, c;
+    a = 1123123;
+    char s[] = "ABCASCSADSJDSIADJIASDJSIDJSIDJdadaisdjajsidajdiad";
+
+    if (a > c) {
+       c = a + b; 
+    }
+}
